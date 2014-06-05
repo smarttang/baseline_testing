@@ -12,18 +12,15 @@ Where is report?
 - 1) html repo rt: report/.
 - 2) xml report: xml/
 
-[How to install?]
-=========================
+How to install?
+--------------------------
 - 1) Python setup.py build
 - 2) Python setup.py install
 - 3) Make sure you install module!!
 
-[Where is document?]
-=========================
-Answer: Is in "doc/".
 
-[How to use?]
-=========================
+How to use?
+--------------------------
 Usage:<br/>
 - Baseline_testing.py [options] <br />
 - 					-n --name (your name) <br />
@@ -33,8 +30,8 @@ Model:<br />
 - Baseline_testing.py -n smarttang -m ftp <br />
 
 
-[Author & Software]
-=========================
+Author & Software
+--------------------------
 - 1) About Author
 -  Name: SmartTang
 -  Email: tangyucong@163.com
