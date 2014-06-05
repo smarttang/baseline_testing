@@ -31,7 +31,7 @@ Model:<br />
 
 Run Demo
 -------------------------
-<img style="max-width:100%;" title="Run example" alt="Run example" src="https://raw.githubusercontent.com/smarttang/baseline_testing/master/pic/image.jpg">
+<img style="max-width:100%;" title="Run example" alt="Run example" src="https://raw.githubusercontent.com/smarttang/baseline_testing/master/pic/image.png">
 
 Author & Software
 --------------------------
