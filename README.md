@@ -34,7 +34,7 @@ Author & Software
 --------------------------
 - 1) About Author
 -  Name: SmartTang
--  Email: tangyucong@163.com
+-  Email: tangyucong[at]163.com
 
 - 2) About Software:
 -  Name: Baseline Testing
