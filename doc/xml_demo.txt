@@ -1,0 +1,10 @@
+<results>
+	<mod_name mod_id=模块的标示号>插件名称</mod_name>
+	<status_code>插件结果状态[0:没有问题 1:存在问题]</status_code>
+	<mod_results>检查结果</mod_results>
+
+	demo:
+	<mod_name mod_id="Jbck1203">t_pass_Mod</mod_name>
+	<status_code>1</status_code>
+	<mod_results>bin、adm</mod_results>
+</results>
