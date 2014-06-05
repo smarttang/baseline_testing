@@ -29,6 +29,9 @@ Model:<br />
 - Baseline_testing.py -n smarttang <br />
 - Baseline_testing.py -n smarttang -m ftp <br />
 
+Run Demo
+-------------------------
+<img style="max-width:100%;" title="Run example" alt="Run example" src="https://raw.githubusercontent.com/smarttang/baseline_testing/master/pic/image.jpg">
 
 Author & Software
 --------------------------
